@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-12-29 23:49:10">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Agent Workspace">2b3a837a0bb732007a0e41d6f6673a7f</application>
+<application_name>Agent Workspace</application_name>
+<application_scope>sn_agent_workspace</application_scope>
+<application_version>20.0.8</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Configures workspace for Intel Theme</description>
+<inserted/>
+<name>TP - Intel Branding</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>38dd512087fc4590c90411373cbb35cf</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-29 23:49:10</sys_created_on>
+<sys_id>195ea96887308590c90411373cbb35a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-29 23:49:10</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Agent Workspace">2b3a837a0bb732007a0e41d6f6673a7f</application>
+<category>customer</category>
+<comments/>
+<name>sys_aw_master_config_7b24ceae5304130084acddeeff7b12a3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config"><sys_aw_master_config action="INSERT_OR_UPDATE"><active>true</active><brand_color>#0773c4</brand_color><compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page><compiled_page_registry display_value="Agent Workspace">09d6f2c28727030084aca571d5cb0b5b</compiled_page_registry><description/><global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search><global_search_data display_value="Agent Workspace Search Config">4961e3e7871033000929717936cb0ba7</global_search_data><hide_search_results_count>false</hide_search_results_count><name>Agent Workspace</name><navigation_type>tab</navigation_type><notifications_enabled>true</notifications_enabled><primary_color>#15b8fc</primary_color><search_enabled>true</search_enabled><sys_class_name>sys_aw_master_config</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2018-02-06 02:27:23</sys_created_on><sys_id>7b24ceae5304130084acddeeff7b12a3</sys_id><sys_mod_count>9</sys_mod_count><sys_name>Agent Workspace</sys_name><sys_package display_value="Agent Workspace" source="sn_agent_workspace">2b3a837a0bb732007a0e41d6f6673a7f</sys_package><sys_policy/><sys_scope display_value="Agent Workspace">2b3a837a0bb732007a0e41d6f6673a7f</sys_scope><sys_update_name>sys_aw_master_config_7b24ceae5304130084acddeeff7b12a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-29 22:50:00</sys_updated_on><user_preference_controls_enabled>true</user_preference_controls_enabled><workspace_logo>52ed192087fc4590c90411373cbb351b</workspace_logo><workspace_url>agent</workspace_url></sys_aw_master_config></record_update>]]></payload>
+<payload_hash>-499529290</payload_hash>
+<remote_update_set display_value="TP - Intel Branding">195ea96887308590c90411373cbb35a3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-29 23:49:10</sys_created_on>
+<sys_id>1d5ea96887308590c90411373cbb35a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17e0862cea50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-29 23:49:10</sys_updated_on>
+<table/>
+<target_name>Agent Workspace</target_name>
+<type>Workspace</type>
+<update_domain>global</update_domain>
+<update_guid>eec0a56492fc4590c311b30003a312c1</update_guid>
+<update_guid_history>eec0a56492fc4590c311b30003a312c1:-499529290,f8a02564f1fc459009256fce566bd877:1365606118,2f40e16461fc45901d0a667eebc70a5e:284065738,53cf55e062fc4590f60513b3806abc5e:704164246,deed192039fc459080a897a7911d6f22:-499529290,b0dd5120fdfc4590598fbff1e7f37dd1:1683433576,f8dd51201bfc45902c5fc6d03b2d8ccd:880490704</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
